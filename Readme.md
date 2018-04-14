@@ -1,0 +1,1 @@
+Projeto de um programa que envia e-mails em massa feito em python.
